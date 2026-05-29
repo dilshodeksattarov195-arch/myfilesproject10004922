@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicefncrypt",
+        "uuid": 43658140,
+        "checksum": "0cj8yn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
